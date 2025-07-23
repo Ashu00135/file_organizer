@@ -51,7 +51,8 @@ This script uses only built-in Python libraries like os, shutil, and pathlib, so
 Clone the repository or download the script:
 
 bash
-git clone https://github.com/your-username/fileorganizer.git
+git clone https://github.com/Ashu00135
+/file_organizer.git
 cd fileorganizer
 Run the organizer script:
 
